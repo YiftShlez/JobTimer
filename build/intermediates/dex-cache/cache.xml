@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Yiftah\Programs\Android\JobTimer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Users\Yiftah\Programs\Android\JobTimer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3c26f1c81c566aac28e4615733488cfadc9c853b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Yiftah\Programs\Android\JobTimer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5070c29f13b57dc0ff2082c2afedff81070f7fa6">
+        <dex dex="D:\Users\Yiftah\Programs\Android\JobTimer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_03a23b80345d030623e963c8f9b4650858cbbc67\classes.dex" />
+    </item>
+
+</items>
